@@ -3,4 +3,6 @@
 
   <string name="app_name">RecyclerView Constraint Bug Example</string>
 
+  <string name="item_view_text">List Item %d</string>
+
 </resources>
